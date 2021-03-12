@@ -19,7 +19,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class Orange_StepDefination {
+public class OrangeTC16and17and18_StepDefination {
 	
 	OrangePages  OrangeOR;
 	WebDriver driver;

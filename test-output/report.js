@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 283200,
+  "duration": 320400,
   "status": "passed"
 });
 formatter.background({
@@ -28,17 +28,17 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_opens_the_browser()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_opens_the_browser()"
 });
 formatter.result({
-  "duration": 7801022100,
+  "duration": 5683203500,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_runs_the_URL()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_runs_the_URL()"
 });
 formatter.result({
-  "duration": 8506238900,
+  "duration": 5463364200,
   "status": "passed"
 });
 formatter.scenario({
@@ -81,46 +81,46 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.i_am_on_OrangeHRP_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.i_am_on_OrangeHRP_Application()"
 });
 formatter.result({
-  "duration": 35580100,
+  "duration": 25182200,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.login_to_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.login_to_Application()"
 });
 formatter.result({
-  "duration": 4722393600,
+  "duration": 3405534200,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.dashboard_page_is_avaliable()"
+  "location": "OrangeTC16and17and18_StepDefination.dashboard_page_is_avaliable()"
 });
 formatter.result({
-  "duration": 46483800,
+  "duration": 51895200,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.click_on_Admin_Menu()"
+  "location": "OrangeTC16and17and18_StepDefination.click_on_Admin_Menu()"
 });
 formatter.result({
-  "duration": 768717600,
+  "duration": 774201500,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.close_the_Browser()"
+  "location": "OrangeTC16and17and18_StepDefination.close_the_Browser()"
 });
 formatter.result({
-  "duration": 1445142700,
+  "duration": 1248057400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 89500,
+  "duration": 63600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 123100,
+  "duration": 64900,
   "status": "passed"
 });
 formatter.background({
@@ -141,17 +141,17 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_opens_the_browser()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_opens_the_browser()"
 });
 formatter.result({
-  "duration": 5077523800,
+  "duration": 3942912700,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_runs_the_URL()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_runs_the_URL()"
 });
 formatter.result({
-  "duration": 7863747000,
+  "duration": 5193372800,
   "status": "passed"
 });
 formatter.scenario({
@@ -203,53 +203,53 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.i_am_on_OrangeHRP_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.i_am_on_OrangeHRP_Application()"
 });
 formatter.result({
-  "duration": 29041500,
+  "duration": 27533300,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.login_to_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.login_to_Application()"
 });
 formatter.result({
-  "duration": 3981682300,
+  "duration": 3593766300,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.click_on_Admin_Menu()"
+  "location": "OrangeTC16and17and18_StepDefination.click_on_Admin_Menu()"
 });
 formatter.result({
-  "duration": 763685800,
+  "duration": 828497000,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.click_on_Job()"
+  "location": "OrangeTC16and17and18_StepDefination.click_on_Job()"
 });
 formatter.result({
-  "duration": 1385046300,
+  "duration": 1301888400,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.validate_text_on_Job_Title()"
+  "location": "OrangeTC16and17and18_StepDefination.validate_text_on_Job_Title()"
 });
 formatter.result({
-  "duration": 36091900,
+  "duration": 46893000,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.close_the_Browser()"
+  "location": "OrangeTC16and17and18_StepDefination.close_the_Browser()"
 });
 formatter.result({
-  "duration": 1269619000,
+  "duration": 1041761900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 82400,
+  "duration": 89900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 60600,
+  "duration": 67400,
   "status": "passed"
 });
 formatter.background({
@@ -270,21 +270,21 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_opens_the_browser()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_opens_the_browser()"
 });
 formatter.result({
-  "duration": 4974733700,
+  "duration": 3904571400,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_runs_the_URL()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_runs_the_URL()"
 });
 formatter.result({
-  "duration": 7473598600,
+  "duration": 5041306400,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 23,
+  "line": 24,
   "name": "Validating PIM Menu",
   "description": "",
   "id": "validating-the-orangehrp-application;validating-pim-menu",
@@ -292,77 +292,77 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 22,
+      "line": 23,
       "name": "@RegressionalTest"
     }
   ]
 });
 formatter.step({
-  "line": 24,
+  "line": 25,
   "name": "I am on OrangeHRP Application",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 25,
+  "line": 26,
   "name": "Login to Application",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 26,
+  "line": 27,
   "name": "Click on PIM menu",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 27,
+  "line": 28,
   "name": "validate user on PIM Menu",
   "keyword": "And "
 });
 formatter.step({
-  "line": 28,
+  "line": 29,
   "name": "Close the Browser",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.i_am_on_OrangeHRP_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.i_am_on_OrangeHRP_Application()"
 });
 formatter.result({
-  "duration": 29356600,
+  "duration": 24102500,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.login_to_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.login_to_Application()"
 });
 formatter.result({
-  "duration": 3830678800,
+  "duration": 3282434000,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.click_on_PIM_menu()"
+  "location": "OrangeTC16and17and18_StepDefination.click_on_PIM_menu()"
 });
 formatter.result({
-  "duration": 750087900,
+  "duration": 742370300,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.validate_user_on_PIM_Menu()"
+  "location": "OrangeTC16and17and18_StepDefination.validate_user_on_PIM_Menu()"
 });
 formatter.result({
-  "duration": 18998900,
+  "duration": 27708900,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.close_the_Browser()"
+  "location": "OrangeTC16and17and18_StepDefination.close_the_Browser()"
 });
 formatter.result({
-  "duration": 1339517500,
+  "duration": 1009810700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 62000,
+  "duration": 80000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 118800,
+  "duration": 87100,
   "status": "passed"
 });
 formatter.background({
@@ -383,21 +383,21 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_opens_the_browser()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_opens_the_browser()"
 });
 formatter.result({
-  "duration": 4481967700,
+  "duration": 3998340000,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.the_user_runs_the_URL()"
+  "location": "OrangeTC16and17and18_StepDefination.the_user_runs_the_URL()"
 });
 formatter.result({
-  "duration": 7046508700,
+  "duration": 5477607000,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 30,
+  "line": 32,
   "name": "Validating Time Menu",
   "description": "",
   "id": "validating-the-orangehrp-application;validating-time-menu",
@@ -405,73 +405,73 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 29,
+      "line": 31,
       "name": "@SmokeTest"
     }
   ]
 });
 formatter.step({
-  "line": 31,
+  "line": 33,
   "name": "I am on OrangeHRP Application",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 32,
+  "line": 34,
   "name": "Login to Application",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 33,
+  "line": 35,
   "name": "Click on Time menu",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 34,
+  "line": 36,
   "name": "validate user on Time Menu",
   "keyword": "And "
 });
 formatter.step({
-  "line": 35,
+  "line": 37,
   "name": "Close the Browser",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "Orange_StepDefination.i_am_on_OrangeHRP_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.i_am_on_OrangeHRP_Application()"
 });
 formatter.result({
-  "duration": 17988500,
+  "duration": 18364500,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.login_to_Application()"
+  "location": "OrangeTC16and17and18_StepDefination.login_to_Application()"
 });
 formatter.result({
-  "duration": 3856921300,
+  "duration": 3276759000,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.click_on_Time_menu()"
+  "location": "OrangeTC16and17and18_StepDefination.click_on_Time_menu()"
 });
 formatter.result({
-  "duration": 746067600,
+  "duration": 735354800,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.validate_user_on_Time_Menu()"
+  "location": "OrangeTC16and17and18_StepDefination.validate_user_on_Time_Menu()"
 });
 formatter.result({
-  "duration": 26283000,
+  "duration": 18571000,
   "status": "passed"
 });
 formatter.match({
-  "location": "Orange_StepDefination.close_the_Browser()"
+  "location": "OrangeTC16and17and18_StepDefination.close_the_Browser()"
 });
 formatter.result({
-  "duration": 1405568100,
+  "duration": 1019491300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 58100,
+  "duration": 59200,
   "status": "passed"
 });
 });

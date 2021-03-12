@@ -19,6 +19,7 @@ And Click on Admin Menu
 Then Click on Job
 And validate text on Job Title
 Then Close the Browser
+
 @RegressionalTest
 Scenario: Validating PIM Menu
 Given I am on OrangeHRP Application
@@ -26,6 +27,7 @@ Then Login to Application
 Then Click on PIM menu
 And validate user on PIM Menu
 Then Close the Browser
+
 @SmokeTest
 Scenario: Validating Time Menu
 Given I am on OrangeHRP Application
